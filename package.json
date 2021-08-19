@@ -1,0 +1,14 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "A basic web server created with node.js and express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Yarar Sellgren",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
